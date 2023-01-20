@@ -22,8 +22,5 @@ const PageComponent = () => {
     </div>
   );
 };
-+ console.log("test")
 ```
 
-**some text**
-more text here
